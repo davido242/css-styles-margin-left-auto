@@ -7,12 +7,18 @@ function App() {
     <div className="App">
       <div className='flex-shiit-wrap'>
         <div className='item-1'>
-          <button>Left Shiit!</button>
+          <button>20 of 50 Results</button>
         </div>
         <div className='item-2'>
-          <div className='sub-item-1'>One to the righty1</div>
+          <div className='sub-item-1'>
+            <select>
+              <option>Assumed DropDown</option>
+              <option>Option 1</option>
+              <option>Option 2</option>
+            </select>
+            </div>
           <div className='sub-item-2'>
-            <button>Two d right2</button>
+            <button>Assumed Search</button>
             </div>
         </div>
       </div>
