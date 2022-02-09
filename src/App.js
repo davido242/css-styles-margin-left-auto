@@ -4,7 +4,7 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
+    <div className="App flex bg-[#000]">
       <div className='flex-shiit-wrap'>
         <div className='item-1'>
           <button>20 of 50 Results</button>
